@@ -1,0 +1,7 @@
+[server]
+user={your_student_id}
+basedir=/home/{your_student_id}/mysql
+datadir=/home/{your_student_id}/sql_data
+socket=/home/{your_student_id}/socket
+port=40000
+mysqlx-port=40001
